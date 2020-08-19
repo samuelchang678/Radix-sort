@@ -1,0 +1,16 @@
+a:0 1 2 
+aa:1 
+climbed:0 
+dun:2 
+duuuuuuuuuuuuuuuuuuuuuuun:2 
+give:1 
+gonna:1 
+incy:0 
+never:1 
+spider:0 
+spout:0 
+the:0 
+up:0 1 
+water:0 
+wincy:0 
+you:1 
